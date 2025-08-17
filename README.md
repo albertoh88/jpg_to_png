@@ -65,7 +65,6 @@ Se você quiser apoiar meu trabalho, pode me oferecer um café ☕ ou conferir m
 
 - [Ko-fi](https://ko-fi.com/elflacorex)  
 - [Gumroad](https://elflacorex.gumroad.com/l/JPG_PNG_Converter)
-- [Fiverr](http://www.fiverr.com/s/yv1NeV0)
 
 ## 📄 License / Licencia / Licença
 
