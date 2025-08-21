@@ -68,6 +68,6 @@ Se você quiser apoiar meu trabalho, pode me oferecer um café ☕ ou conferir m
 
 ## 📄 License / Licencia / Licença
 
-This project is licensed under the MIT License.
-Este proyecto está bajo la licencia MIT.
-Este projeto está sob a licença MIT.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). 
+Este proyecto es bajo la [Licencia MIT](https://opensource.org/licenses/MIT). 
+Este projeto é gratuito e open-source sob a [Licença MIT](https://opensource.org/licenses/MIT).
